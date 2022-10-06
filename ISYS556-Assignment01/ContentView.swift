@@ -1,8 +1,8 @@
 /*
-    Name: Patrick Mims
-    Assignment: 01
-    Date: 10.06.22
-    Class: ISYS-556
+ Name: Patrick Mims
+ Assignment: 01 Weather Forecast
+ Date: 10.06.22
+ Class: ISYS-556
  */
 
 import SwiftUI
