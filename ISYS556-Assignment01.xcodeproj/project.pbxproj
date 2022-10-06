@@ -14,6 +14,7 @@
 		B584CFE428EF2B1B00746E9D /* ISYS556_Assignment01Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B584CFE328EF2B1B00746E9D /* ISYS556_Assignment01Tests.swift */; };
 		B584CFEE28EF2B1B00746E9D /* ISYS556_Assignment01UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B584CFED28EF2B1B00746E9D /* ISYS556_Assignment01UITests.swift */; };
 		B584CFF028EF2B1B00746E9D /* ISYS556_Assignment01UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B584CFEF28EF2B1B00746E9D /* ISYS556_Assignment01UITestsLaunchTests.swift */; };
+		B584CFFD28EF349F00746E9D /* ISYS556-Assignment01 in Resources */ = {isa = PBXBuildFile; fileRef = B584CFFC28EF349F00746E9D /* ISYS556-Assignment01 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		B584CFE928EF2B1B00746E9D /* ISYS556-Assignment01UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ISYS556-Assignment01UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B584CFED28EF2B1B00746E9D /* ISYS556_Assignment01UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISYS556_Assignment01UITests.swift; sourceTree = "<group>"; };
 		B584CFEF28EF2B1B00746E9D /* ISYS556_Assignment01UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISYS556_Assignment01UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B584CFFC28EF349F00746E9D /* ISYS556-Assignment01 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "ISYS556-Assignment01"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				B584CFD228EF2B1600746E9D /* ISYS556_Assignment01App.swift */,
 				B584CFD428EF2B1600746E9D /* ContentView.swift */,
+				B584CFFC28EF349F00746E9D /* ISYS556-Assignment01 */,
 				B584CFD628EF2B1A00746E9D /* Assets.xcassets */,
 				B584CFD828EF2B1A00746E9D /* Preview Content */,
 			);
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B584CFDA28EF2B1A00746E9D /* Preview Assets.xcassets in Resources */,
+				B584CFFD28EF349F00746E9D /* ISYS556-Assignment01 in Resources */,
 				B584CFD728EF2B1A00746E9D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
